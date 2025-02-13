@@ -1,5 +1,6 @@
 nginx
 kylin87/docker-webman:8.1-cli-alpine
+krisss/docker-webman:8.1-cli-alpine
 kibana:8.8.2
 elasticsearch:8.8.2
 jgraph/drawio
