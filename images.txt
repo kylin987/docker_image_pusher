@@ -1,4 +1,4 @@
-nginx
+nginx:alpine
 portainer/portainer-ce
 portainer/agent:2.21.5
 kylin87/docker-webman:8.1-3-cli-alpine
