@@ -1,7 +1,7 @@
 nginx:alpine
 portainer/portainer-ce
 portainer/agent:2.21.5
-kylin87/docker-webman:8.1-4-cli-alpine
+kylin87/docker-webman:8.1-5-cli-alpine
 kibana:8.8.2
 elasticsearch:8.8.2
 jgraph/drawio
