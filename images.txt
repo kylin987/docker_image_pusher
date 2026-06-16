@@ -14,4 +14,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-deluan/navidrome
+#deluan/navidrome
+kylin87/zzb-vstk-signer-bridge:0.1.0
