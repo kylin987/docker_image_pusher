@@ -1,7 +1,7 @@
 #nginx:alpine
 #portainer/portainer-ce
 #portainer/agent:2.21.5
-#kylin87/docker-webman:8.3-cli-alpine
+kylin87/docker-webman:8.1-6-cli-alpine
 #kibana:8.8.2
 #elasticsearch:8.8.2
 #nacos/nacos-server:v2.0.4
@@ -15,4 +15,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #deluan/navidrome
-kylin87/zzb-vstk-signer-bridge:0.1.0
+#kylin87/zzb-vstk-signer-bridge:0.1.0
