@@ -7,7 +7,7 @@
 #nacos/nacos-server:v2.0.4
 #jgraph/drawio
 #kylin87/paddle-ocr:2.9
-kylin87/paddle-ocr:3.0
+kylin87/paddle-ocr:3.1
 #kylin87/paddle-ocr-slim:2.9
 #elasticdump/elasticsearch-dump
 #支持私库1
