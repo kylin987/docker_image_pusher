@@ -7,6 +7,7 @@
 #nacos/nacos-server:v2.0.4
 #jgraph/drawio
 #kylin87/paddle-ocr:2.9
+kylin87/paddle-ocr:3.0
 #kylin87/paddle-ocr-slim:2.9
 #elasticdump/elasticsearch-dump
 #支持私库1
@@ -16,4 +17,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #deluan/navidrome
 #kylin87/zzb-vstk-signer-bridge:0.1.0
-homeassistant/home-assistant:latest
+#homeassistant/home-assistant:latest
