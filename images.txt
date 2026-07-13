@@ -4,7 +4,7 @@
 #kylin87/docker-webman:8.1-6-cli-alpine
 #kibana:8.8.2
 #elasticsearch:8.8.2
-nacos/nacos-server:v2.5.1
+#nacos/nacos-server:v2.5.1
 #jgraph/drawio
 #kylin87/paddle-ocr:2.9
 kylin87/paddle-ocr:3.2
@@ -18,3 +18,4 @@ kylin87/paddle-ocr:3.2
 #deluan/navidrome
 #kylin87/zzb-vstk-signer-bridge:0.1.0
 #homeassistant/home-assistant:latest
+mysql:8.0
