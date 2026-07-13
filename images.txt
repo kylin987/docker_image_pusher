@@ -4,7 +4,7 @@
 #kylin87/docker-webman:8.1-6-cli-alpine
 #kibana:8.8.2
 #elasticsearch:8.8.2
-#nacos/nacos-server:v2.0.4
+nacos/nacos-server:v2.5.1
 #jgraph/drawio
 #kylin87/paddle-ocr:2.9
 kylin87/paddle-ocr:3.2
