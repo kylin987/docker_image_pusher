@@ -7,7 +7,7 @@
 #nacos/nacos-server:v2.5.1
 #jgraph/drawio
 #kylin87/paddle-ocr:2.9
-kylin87/paddle-ocr:3.2
+kylin87/paddle-ocr:3.3
 #kylin87/paddle-ocr-slim:2.9
 #elasticdump/elasticsearch-dump
 #支持私库1
@@ -18,4 +18,4 @@ kylin87/paddle-ocr:3.2
 #deluan/navidrome
 #kylin87/zzb-vstk-signer-bridge:0.1.0
 #homeassistant/home-assistant:latest
-mysql:8.0
+#mysql:8.0
