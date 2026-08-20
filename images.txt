@@ -20,4 +20,5 @@
 #homeassistant/home-assistant:latest
 #mysql:8.0
 #kylin87/paddle-ocr3:1.0
-kylin87/paddle-ocr3:v4-mobile-20260820
+#kylin87/paddle-ocr3:v4-mobile-20260820
+kylin87/paddle-ocr3:v4-mobile-mkldnn-20260820
