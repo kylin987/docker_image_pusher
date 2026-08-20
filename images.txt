@@ -19,4 +19,5 @@
 #kylin87/zzb-vstk-signer-bridge:0.1.0
 #homeassistant/home-assistant:latest
 #mysql:8.0
-kylin87/paddle-ocr3:1.0
+#kylin87/paddle-ocr3:1.0
+kylin87/paddle-ocr3:v4-mobile-20260820
