@@ -23,4 +23,5 @@
 #kylin87/paddle-ocr3:v4-mobile-20260820
 #kylin87/paddle-ocr3:v4-mobile-mkldnn-20260820
 #kylin87/paddle-ocr3:v4-mobile-mkldnn-paddle322-20260820
-kylin87/paddle-ocr3:v6-tiny-mkldnn-paddle322-20260820
+#kylin87/paddle-ocr3:v6-tiny-mkldnn-paddle322-20260820
+kylin87/paddle-ocr3:v6-tiny-hpi-openvino-paddle322-20260820
