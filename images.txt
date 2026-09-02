@@ -9,7 +9,7 @@
 #kylin87/paddle-ocr:2.9
 #kylin87/paddle-ocr:3.3
 #kylin87/paddle-ocr:4.0
-kylin87/paddle-ocr:4.0-hpi
+#kylin87/paddle-ocr:4.0-hpi
 #elasticdump/elasticsearch-dump
 #支持私库11
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -26,3 +26,4 @@ kylin87/paddle-ocr:4.0-hpi
 #kylin87/paddle-ocr3:v4-mobile-mkldnn-paddle322-20260820
 #kylin87/paddle-ocr3:v6-tiny-mkldnn-paddle322-20260820
 #kylin87/paddle-ocr3:v6-tiny-hpi-openvino-paddle322-20260820
+python:3.12-slim-bookworm
