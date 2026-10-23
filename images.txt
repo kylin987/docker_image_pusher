@@ -4,6 +4,8 @@
 #kylin87/docker-webman:8.1-6-cli-alpine
 #kylin87/docker-webman:8.1-7-cli-alpine
 #kylin87/docker-webman:8.3.36-cli-alpine
+kylin87/docker-webman:8.1.34-security-5-cli-alpine
+kylin87/docker-webman:8.1.34-security-7-cli-alpine
 #kibana:8.8.2
 #elasticsearch:8.8.2
 #nacos/nacos-server:v2.5.1
@@ -32,4 +34,4 @@
 #kylin87/kfc-bms-runtime:py3.12 
 #kylin87/cm-ai-helpdesk-knowledge:v2
 #qdrant/qdrant:v1.15.4
-kylin87/elasticsearch:8.19.6-ik-pinyin-lab-v1
+#kylin87/elasticsearch:8.19.6-ik-pinyin-lab-v1
