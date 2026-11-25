@@ -36,4 +36,5 @@
 #qdrant/qdrant:v1.15.4
 #kylin87/elasticsearch:8.19.6-ik-pinyin-lab-v1
 #alpine:3.24.4
-kylin87/geetest-solver:1.0.0
+#kylin87/geetest-solver:1.0.0
+kylin87/geetest-solver:1.1.0
